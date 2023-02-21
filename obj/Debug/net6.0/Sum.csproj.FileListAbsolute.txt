@@ -1,0 +1,15 @@
+C:\Репозиторий\Sum\obj\Debug\net6.0\Sum.csproj.AssemblyReference.cache
+C:\Репозиторий\Sum\obj\Debug\net6.0\Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Репозиторий\Sum\obj\Debug\net6.0\Sum.AssemblyInfoInputs.cache
+C:\Репозиторий\Sum\obj\Debug\net6.0\Sum.AssemblyInfo.cs
+C:\Репозиторий\Sum\obj\Debug\net6.0\Sum.csproj.CoreCompileInputs.cache
+C:\Репозиторий\Sum\bin\Debug\net6.0\Sum.exe
+C:\Репозиторий\Sum\bin\Debug\net6.0\Sum.deps.json
+C:\Репозиторий\Sum\bin\Debug\net6.0\Sum.runtimeconfig.json
+C:\Репозиторий\Sum\bin\Debug\net6.0\Sum.dll
+C:\Репозиторий\Sum\bin\Debug\net6.0\Sum.pdb
+C:\Репозиторий\Sum\obj\Debug\net6.0\Sum.dll
+C:\Репозиторий\Sum\obj\Debug\net6.0\refint\Sum.dll
+C:\Репозиторий\Sum\obj\Debug\net6.0\Sum.pdb
+C:\Репозиторий\Sum\obj\Debug\net6.0\Sum.genruntimeconfig.cache
+C:\Репозиторий\Sum\obj\Debug\net6.0\ref\Sum.dll
